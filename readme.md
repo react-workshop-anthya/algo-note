@@ -1,0 +1,1 @@
+# Algoritm Note by Python

@@ -10,7 +10,22 @@ common_algo/   Reusable algorithm implementations and utilities
 patterns/      Pattern notes, templates, pitfalls, and practiced problems
 problems/      Individual problem solutions grouped by difficulty
 review_log/    Practice history, mistakes, and spaced-review notes
+roadmap.md     Six-month interview preparation plan and weekly targets
 ```
+
+## Current Plan
+
+Current phase: use Medium problems as the main practice level, with short Easy
+reviews only when a pattern needs to be refreshed.
+
+See [roadmap.md](roadmap.md) for the full six-month interview preparation plan.
+
+Weekly baseline:
+
+- 3-4 Easy or review problems
+- 2 Medium problems
+- 1 review session
+- Update pattern notes and the monthly review log after each solved problem
 
 ## Practice Flow
 

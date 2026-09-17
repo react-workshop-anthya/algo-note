@@ -1,37 +1,47 @@
 # Algorithm Notes by Python
 
-Personal algorithm practice notes focused on pattern recognition, clear
-explanations, and repeatable review.
+Personal algorithm practice focused on pattern recognition, clear reasoning,
+and independent implementation.
+
+## Start Here
+
+Open an agent session in this repository and ask to continue practice, or invoke
+`$leetcode-teacher`. [AGENTS.md](AGENTS.md) routes to the
+[repository-local teacher](.agents/skills/leetcode-teacher/SKILL.md).
+We discuss in terminal/chat; implementation happens in the IDE.
+
+Read [roadmap.md](roadmap.md) for the current queue and weekly plan. Open the
+newest dated log in [review_log/](review_log/) for the exact checkpoint; the
+README is an entry point, not a second progress ledger.
+
+## Current Targets
+
+- **2026-10-15:** submit a Google application with a reviewed resume.
+- **2026-12-17:** target interview readiness, not a guaranteed interview invitation.
+- Medium is the main track; Easy reviews are brief and targeted.
+- Target 6-8 focused algorithm hours weekly, with 3-4 new Medium problems,
+  two spaced reviews, and one timed walkthrough. Counts are planning estimates,
+  not mastery evidence; these activities share the time budget.
+
+Career milestones are owned by
+[the career roadmap](../plans/OKR/big-tech-18mo-roadmap.md). Daily algorithm
+execution stays here. Resume/referral preparation runs in parallel with practice.
 
 ## Structure
 
 ```text
-common_algo/   Reusable algorithm implementations and utilities
-patterns/      Pattern notes, templates, pitfalls, and practiced problems
-problems/      Individual problem solutions grouped by difficulty
-review_log/    Practice history, mistakes, and spaced-review notes
-roadmap.md     Six-month interview preparation plan and weekly targets
+AGENTS.md        Agent entry point and ownership boundaries
+.agents/skills/  Repository-local teaching policy
+roadmap.md       Dated practice plan, current queue, and readiness checks
+review_log/      Attempts, assistance, verification, and review checkpoints
+patterns/        Pattern notes, pitfalls, and practiced problems
+problems/        Learner solutions and exercise files by difficulty
+common_algo/     Reusable algorithm implementations and utilities
 ```
-
-## Current Plan
-
-Current phase: use Medium problems as the main practice level, with short Easy
-reviews only when a pattern needs to be refreshed.
-
-See [roadmap.md](roadmap.md) for the full six-month interview preparation plan.
-
-Weekly baseline:
-
-- 3-4 Easy or review problems
-- 2 Medium problems
-- 1 review session
-- Update pattern notes and the monthly review log after each solved problem
 
 ## Practice Flow
 
-1. Identify the pattern.
-2. Write a brute-force approach first.
-3. Optimize with the target data structure or algorithm.
-4. Record time and space complexity.
-5. Add edge cases and review notes.
-6. Revisit the problem later without looking at the solution.
+Discuss brute force and its bottleneck, derive an optimization and correctness
+argument, analyze complexity, design tests, then implement in the IDE. Review
+the actual code and test results before recording completion. Revisit guided
+solutions later without looking at the answer.

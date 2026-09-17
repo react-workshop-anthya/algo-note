@@ -1,16 +1,20 @@
 """
 Problem:
 Difficulty:
-Pattern:
+Statement:
 
-Summary:
+Input / Output:
 
-Approach:
+Constraints:
 
-Time Complexity:
-Space Complexity:
+Examples:
 
-Edge Cases:
+Learner notes (fill after the attempt):
+    Pattern:
+    Approach:
+    Time Complexity:
+    Space Complexity:
+    Edge Cases:
 """
 
 
